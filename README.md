@@ -24,7 +24,7 @@ Today, I have **GitHub**. I have **millions of repositories**. I have **GitHub C
 
 **This is what equal opportunity looks like.**
 
-## What I'm Committing To 🚀
+## What I'm Committing To 
 
 - **Work constantly** (00.01, 00.02, 00.03...) - Small progress every day
 - **Stay human-centric** - Build technology that serves people
@@ -32,23 +32,15 @@ Today, I have **GitHub**. I have **millions of repositories**. I have **GitHub C
 - **Create equal opportunities** - Help others who face the barriers I once faced
 - **Never forget where I came from** - The kid with no bag, no books, but infinite hunger to learn
 
-## Thank You 💚
+## Thank You 
 
 - **GitHub** - For being my infinite library, always open, always free
 - **GitHub Copilot** - For being my coach, my teacher, my AI pair programmer
 - **Open Source Community** - For building bridges where there were walls
 - **Every developer who chose to share** - You changed my life
 
-## To Anyone Who Feels They Don't Belong 💙
-
 If you think you don't have the right education, resources, or background to be in tech...
 
-**You do.**
-
-I didn't have a bag for my books. Now I have GitHub.  
-You have GitHub too.
-
-**Start today. Start at 00.01.**
 
 ## The First Green Square 🟩
 
