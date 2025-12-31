@@ -91,45 +91,10 @@ I commit to:
 - **Never forget where I came from** - The kid with no bag, no books, but infinite hunger to learn
 - **Be productive with purpose** - Not busy for busy's sake, but focused on meaningful impact
 
----
-
-## To Anyone Who Feels They Don't Belong Here 💙
-
-If you're reading this and you think:  
-*"I don't have the right education..."*  
-*"I don't have the resources..."*  
-*"I don't belong in tech..."*
-
-**You do.**
-
-I didn't have a bag for my books. Now I have GitHub.  
-You have GitHub too.
-
 The code doesn't care about your past. It cares about your curiosity, your persistence, your willingness to learn.
-
-**Start today. Start at 00.01.**
-
----
-
-## The Journey Continues ✨
-
-This isn't just a New Year's commit. This is a promise:
-
-To work constantly.  
-To build for humans.  
-To create equal opportunities.  
-To never stop learning.  
-To give back what was freely given to me.
-
 Every day is 00.01 - a fresh start, a new beginning, a chance to build something meaningful.
 
 **Happy New Year 2026!**
-
----
-
-*"From having nothing but hunger to learn, to having everything I need to build - thank you, open source. Thank you, GitHub. Thank you to every human who chose to share."*
-
----
 
 ## A New Green Square on New Year 🟩
 
@@ -147,13 +112,6 @@ Every green square tells a story:
 - A contribution made
 - A commitment kept
 
-This green square represents more than code - it represents **showing up**.
-
-From someone who once had nothing, to someone who now commits to showing up every day, learning constantly, building purposefully, and giving back generously.
-
-**Let this be the first of many greens in 2026.** 🟩🟩🟩
-
----
 
 **Committed with deep gratitude on January 1st, 2026 at 00:01**  
-**Because the work never stops. The learning never stops. We never stop.**
+vahid faraji, Istanbul 01.01.2026 00.01
