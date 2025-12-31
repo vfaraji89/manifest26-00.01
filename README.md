@@ -18,7 +18,7 @@ But it's more than a timestamp. It's a philosophy:
 
 ## My Story 📖
 
-In high school, I didn't have a bag. I didn't have books. I didn't have the resources that others took for granted.
+In high school, I didn't have a bag. I didn't have extra books (except formal educational books). I didn't have the resources that others took for granted.
 
 Today, I have **GitHub**. I have **millions of repositories**. I have **GitHub Copilot as my teacher**. I have access to the same knowledge as anyone in Silicon Valley - **for free**.
 
