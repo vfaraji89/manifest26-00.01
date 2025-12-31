@@ -1,6 +1,6 @@
-# Manifest 2026-00.01 🌟
+# Manifest 2026-00.01 
 
-> *"From having nothing but hunger to learn, to having everything I need to build."*
+> *"From having nothing but hunger to learn."*
 
 ## What is this?
 
