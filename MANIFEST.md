@@ -131,5 +131,29 @@ Every day is 00.01 - a fresh start, a new beginning, a chance to build something
 
 ---
 
+## A New Green Square on New Year 🟩
+
+Today, January 1st, 2026 at 00:01, a new green square appears on my GitHub contribution graph.
+
+But this isn't just any green square.
+
+This is **the first green of the year**.  
+The first commit of 2026.  
+The first step in a journey of 365+ days of building, learning, and growing.
+
+Every green square tells a story:
+- A problem solved
+- A skill learned
+- A contribution made
+- A commitment kept
+
+This green square represents more than code - it represents **showing up**.
+
+From someone who once had nothing, to someone who now commits to showing up every day, learning constantly, building purposefully, and giving back generously.
+
+**Let this be the first of many greens in 2026.** 🟩🟩🟩
+
+---
+
 **Committed with deep gratitude on January 1st, 2026 at 00:01**  
 **Because the work never stops. The learning never stops. We never stop.**
