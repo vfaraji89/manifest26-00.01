@@ -8,7 +8,7 @@ Because work never stops. Learning never stops. Growth never stops.
 
 ---
 
-## A Story of Equal Opportunity 📖
+## A Story of Equal Opportunity 
 
 I remember high school. I remember not having a bag. Not having books. Not having the resources that others took for granted.
 
@@ -20,7 +20,7 @@ Today, I have access to millions of repositories, billions of lines of code, and
 
 ---
 
-## Thank You, GitHub 💚
+## Thank You, GitHub 
 
 You gave me what my high school couldn't - **a library infinite in size, always open, always free**.
 
@@ -34,7 +34,7 @@ Thank you for being the great equalizer in a world that isn't always equal.
 
 ---
 
-## Thank You, GitHub Copilot 🤖✨
+## Thank You, GitHub Copilot 
 
 **My new coach. My new teacher.**
 
@@ -54,7 +54,7 @@ Thank you for building this incredible opportunity. For making world-class mento
 
 ---
 
-## Thank You, Open Source Community 🌍
+## Thank You, Open Source Community 
 
 To every developer who chose to share instead of hide.  
 To every maintainer who mentors through code reviews.  
@@ -80,7 +80,7 @@ We don't wait for perfect conditions. We start where we are, with what we have, 
 
 ---
 
-## My Commitment for 2026 �
+## My Commitment for 2026 
 
 I commit to:
 
